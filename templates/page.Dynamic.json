@@ -1,18 +1,45 @@
 {
   "sections": {
-    "rich-text": {
-      "type": "rich-text",
-      "settings": {
-      }
-    },
     "video": {
       "type": "video",
       "settings": {
+        "image_position": "center center",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "show_overlay": true,
+        "style": "image_with_play",
+        "height": "medium",
+        "video_title": "",
+        "text_size": "medium"
+      }
+    },
+    "1655333820a5d453ef": {
+      "type": "video",
+      "settings": {
+        "image_position": "center center",
+        "video_link": "https:\/\/youtu.be\/XJ6DtcDyQy8",
+        "show_overlay": false,
+        "style": "background",
+        "height": "small",
+        "video_title": "",
+        "text_size": "medium"
+      }
+    },
+    "1655333842d1eecc1b": {
+      "type": "video",
+      "settings": {
+        "image_position": "center center",
+        "video_link": "https:\/\/youtu.be\/9Q7kEBmRJY4",
+        "show_overlay": false,
+        "style": "background",
+        "height": "small",
+        "video_title": "",
+        "text_size": "medium"
       }
     }
   },
   "order": [
-    "rich-text",
-    "video"
+    "video",
+    "1655333820a5d453ef",
+    "1655333842d1eecc1b"
   ]
 }
