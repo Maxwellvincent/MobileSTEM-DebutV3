@@ -10,26 +10,28 @@
 
 {% schema %}
 {
-    "blocks":[
-       {
-          "type":"rich-text",
-          "name":"Rich text",
-          "settings":[
-             "*SETTINGS FOR RICH TEXT SECTION*"
-          ]
-       },
-       {
-          "type":"video",
-          "name":"Full Width YouTube Video",
-          "settings":[
-             {
-                "type":"text",
-                "id":"videoID",
-                "label":"Video ID",
-                "default":"Enter Video ID Here"
-             }
-          ]
-       }
+    "name": "Mobile STEM Dynamic,
+    "blocks": [{
+        "name" : "Landing Page Image",
+        "type": "Hero",
+        "settings": [
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Name of this section"
+        },
+        {
+            "type": "textarea",
+            "id": "page_handle",
+            "label": "The pages where this image is shown"
+        },
+        {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Choose an image"
+        }
+        ]       
+    }
     ]
- }
- {% endschema %}
+}
+{% endschema %}
