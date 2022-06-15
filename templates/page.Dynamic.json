@@ -4,9 +4,9 @@
       "type": "video",
       "settings": {
         "image_position": "center center",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "show_overlay": true,
-        "style": "image_with_play",
+        "video_link": "https:\/\/youtu.be\/-qBNBuqcQRc",
+        "show_overlay": false,
+        "style": "background",
         "height": "medium",
         "video_title": "",
         "text_size": "medium"
