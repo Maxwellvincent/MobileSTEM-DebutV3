@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "rich-text": {
+      "type": "rich-text",
+      "settings": {
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "rich-text",
+    "video"
+  ]
+}
