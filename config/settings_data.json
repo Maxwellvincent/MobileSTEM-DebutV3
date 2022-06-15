@@ -77,12 +77,12 @@
         "type": "hero",
         "settings": {
           "image": "shopify:\/\/shop_images\/Screen_Shot_2019-08-02_at_1.18.29_AM_b2cea6dd-20ce-4c45-9fbf-b68f9be55022.png",
-          "alignment": "center",
-          "hero_layout": "fixed_width",
-          "hero_size": "x-large",
-          "text_size": "large",
-          "title": "Mobile STEM Labs",
-          "text": "<p>\"Mobile STEM Labs has been a tremendous addition to our academic and enrichment classes for our scholars in grades second through fifth grade.&nbsp; The alignment to the next generation science standards and hands-on experiences are invaluable for all of our learners to be able to grasp 21st century learning skills.\"<\/p>\n<p><\/p>\n<p>- <em>Administrator<\/em><\/p>",
+          "alignment": "top",
+          "hero_layout": "full_width",
+          "hero_size": "medium",
+          "text_size": "medium",
+          "title": "Mobile STEM Labs Overview",
+          "text": "<p>Mobile STEM Labs is a hands-on STEM (Science, Technology, Engineering, Mathematics) program geared towards positively impacting the lives of students. Mobile STEM labs strengthen the STEM skills of participants and provide exposure to STEM careers through a fun and engaging curriculum. The instructors are committed to the youth and are culturally diverse individuals with STEM backgrounds. The curriculum is aligned with Next Generation Science Standards and weekly STEM literacy worksheets are aligned with Common Core standards to enhance English Language Arts skills through the use of Science terminology.<\/p>",
           "button_label": "",
           "button_link": ""
         }
