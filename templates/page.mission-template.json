@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "rich-text": {
+      "type": "rich-text",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "rich-text"
+  ]
+}
